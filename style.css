@@ -83,9 +83,9 @@ a {
 }
 
 .btn-multi {
-    background-color: #b8860b;
+    background-color: #FF7800;
 }
 
 .btn-multi:hover {
-    background-color: #daa520;
+    background-color: rgb(250, 71, 0);
 }
